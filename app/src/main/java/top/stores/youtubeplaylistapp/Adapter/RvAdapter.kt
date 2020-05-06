@@ -29,9 +29,9 @@ class RvAdapter(val userList: ArrayList<Model>) : RecyclerView.Adapter<RvAdapter
     }
 
     private val urlList = arrayOf(
-        "https://www.youtube.com/watch?v=uEJuoEs1UxY&list=PLluSr0hbOJcd2lgG05UqagSJXBq2qGBOx",
-        "https://developer.android.com/guide/webapps/webview",
-        "https://www.google.com",
-        "https://www.bling.com"
+        "https://www.youtube.com/watch?v=uEJuoEs1UxY&list=RDuEJuoEs1UxY&start_radio=1",
+        "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+        "https://www.youtube.com/watch?v=RgKAFK5djSk"
     )
 }
